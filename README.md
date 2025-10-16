@@ -6,7 +6,7 @@ We leerde ook hoe unity projecten zijn geoganiseerd.
 
 ## Opd les 1.1
 foto les 1.1
-![image]()
+![image](<img width="645" height="348" alt="image" src="https://github.com/user-attachments/assets/46292d32-4e44-4b94-bda9-9fc35ff948da" />)
 ![Alt Text]()
 
 # les 1.2
