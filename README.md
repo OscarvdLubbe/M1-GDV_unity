@@ -6,6 +6,8 @@ We leerde ook hoe unity projecten zijn geoganiseerd.
 
 ## Opd les 1.1
 foto les 1.1
+![image]()
+![Alt Text]()
 
 # les 1.2
 We leerde in deze les hoe we ons eerste script moesten schrijven.
@@ -14,6 +16,8 @@ Wij leerde in deze les de basisstructuur van C#.
 
 ## Opd les 1.2
 foto les 1.2
+![image]()
+![Alt Text]()
 
 # les 2.1
 We leerde in deze les Scenes en GameObjects beter te begrijpen.
@@ -23,6 +27,8 @@ en we leerde wat Time.deltaTime is + en we leerde hoe je de transform kan toepas
 
 ## Opd les 2.1
 foto les 2.1
+![image]()
+![Alt Text]()
 
 # les 2.2
 We leerde in deze les wat variabelen zijn en welke verschillende soorten er zijn.
@@ -30,6 +36,8 @@ We leerde ook hoe je Inputs op toetsen borden kunt verwerken en daarmee een eenv
 
 ## Opd les 2.2
 foto les 2.2
+![image]()
+![Alt Text]()
 
 # les 3.1
 We leerde in deze les physics en wat dat in unity betekende.
@@ -38,6 +46,8 @@ We voegte ook krachten toe in de code.
 
 ## Opd les 3.1
 foto les 3.1
+![image]()
+![Alt Text]()
 
 # les 3.2
 We leerde in deze les wat functies zijn en waarom en waar ze handig voor zijn.
@@ -46,6 +56,8 @@ Functies helpen ons ook om code minder te herhalen.
 
 ## Opd les 3.2
 foto les 3.2
+![image]()
+![Alt Text]()
 
 # les 4.1
 We leerde in deze les over Colliders en Triggers en het verschil tussen Physics Colliders en Trigger Colliders.
@@ -54,6 +66,8 @@ We lieten Objecten ook laten reageren op aanraking.
 
 ## Opd les 4.1
 foto les 4.1
+![image]()
+![Alt Text]()
 
 # les 4.2
 We leerde in deze les OnTriggerEnter() en OnCollisionEnter() toe te passen in onze code.
@@ -62,6 +76,8 @@ Dit gaat ook terug op les 4.1.
 
 ## Opd les 4.2
 foto les 4.2
+![image]()
+![Alt Text]()
 
 # les 5.1
 We leerde in deze les if en switch statments te gebruiken.
@@ -70,6 +86,8 @@ In deze les leerde we ook veel operators als ==, !=, <, >, >=, <= en we leer de 
 
 ### Opd les 5.1
 foto les 5.1
+![image]()
+![Alt Text]()
 
 # les 5.2
 We leerde in deze les hoe we de functie GetComponent<Type>() moesten gebruiken.
@@ -77,5 +95,19 @@ We gebruikte ook veel stof uit de ander lessen zoals If-statements gebruiken bij
 
 ### Opd les 5.2
 foto les 5.2
+![image]()
+![Alt Text]()
 
 # les 6.1
+
+### Opd les 6.1
+foto les 6.1
+![image]()
+![Alt Text]()
+
+# les 6.1
+
+### Opd les 6.2
+foto les 6.2
+![image]()
+![Alt Text]()
